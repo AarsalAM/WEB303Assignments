@@ -395,6 +395,7 @@ ul {
 .accordion-panel {
   display: none;
   padding: 8px;
+  padding-bottom: 0px;
 }
 
 .accordion-control {
